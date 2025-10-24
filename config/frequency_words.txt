@@ -12,8 +12,6 @@ AI
 生成式AI
 算法优化
 智能感知
-AI训练
-AI推理
 自然语言处理（NLP）
 计算机视觉
 语音识别
@@ -22,50 +20,6 @@ AI推理
 迁移学习
 联邦学习
 大模型
-Transformer
-LLM
-AIGC
-RAG
-Embedding
-知识图谱
-提示工程（Prompt Engineering）
-ChatGPT
-Claude
-Gemini
-Copilot
-Stable Diffusion
-Midjourney
-DALL·E
-Sora
-Runway
-HuggingFace
-LangChain
-AutoGPT
-语音助手
-AI绘画
-AI视频生成
-智能客服
-智能驾驶
-AI写作
-AI代码生成
-AI配音
-AI翻译
-AI安全
-人工智能伦理
-通用人工智能（AGI）
-AI算力
-AI芯片
-模型压缩
-AI云计算
-AI芯片
-AIoT
-边缘AI
-AI监管
-AI教育
-AI医疗
-AI营销
-AI金融
-AI健身
 科技创新
 云计算
 芯片
@@ -81,6 +35,8 @@ AI芯片
 智能手机
 科技生态
 开源社区
+!广告
+!培训
 
 国外科技资讯
 苹果公司
@@ -94,23 +50,18 @@ Facebook
 特斯拉
 英伟达
 英特尔
-超威半导体公司
 AMD
 OpenAI
 Anthropic
-国际商业机器公司
 IBM
 三星
-Samsung
 索尼
-Sony
 华为
-Huawei
 比亚迪
-BYD
 字节跳动
-X
-Twitter
+推特
+!广告
+!培训
 
 国内科技资讯
 华为
@@ -129,55 +80,20 @@ vivo
 旷视科技
 依图科技
 寒武纪
+!广告
+!培训
 
 运动
 体育赛事
 比赛
 冠军
-联赛
-锦标赛
-杯赛
-世界赛
-奥运会
-亚运会
 世界杯
 欧洲杯
-超级碗
-电竞比赛
-NBA
-CBA
-英超
-西甲
-意甲
-德甲
-欧冠
-世界杯
-奥运会
-Wimbledon
-US Open
-Tour de France
-UFC
-LOL全球总决赛
-Dota2国际邀请赛（TI）
-KPL
-CS2 Major
-球员
-教练
-战术
-比赛结果
-赛程
-积分榜
-转会
-决赛
-预选赛
-主场
-客场
-粉丝
-体育直播
-体育新闻
+亚洲杯
+!广告
+!培训
 
 健身
-运动
 锻炼
 力量训练
 有氧运动
@@ -187,9 +103,8 @@ CS2 Major
 燃脂
 增肌
 训练计划
-打卡
-训练日记
-健身打卡
 体重管理
+!广告
+!培训
 
 
