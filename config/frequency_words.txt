@@ -83,42 +83,32 @@ AI芯片
 开源社区
 
 国外科技资讯
-Apple
-Google
-Microsoft
-Amazon
+苹果公司
+谷歌
+微软
+亚马逊
 Meta
-Tesla
-NVIDIA
-Intel
+Facebook
+特斯拉
+英伟达
+英特尔
+超威半导体公司
 AMD
 OpenAI
 Anthropic
+国际商业机器公司
 IBM
+三星
 Samsung
+索尼
 Sony
+华为
 Huawei
+比亚迪
 BYD
-TikTok（ByteDance）
-X（Twitter）
-苹果公司（Apple）
-谷歌（Google）
-微软（Microsoft）
-亚马逊（Amazon）
-Meta（原Facebook）
-特斯拉（Tesla）
-英伟达（NVIDIA）
-英特尔（Intel）
-超威半导体公司（AMD）
-OpenAI（开放人工智能公司）
-Anthropic（人本智能）
-国际商业机器公司（IBM）
-三星电子（Samsung）
-索尼公司（Sony）
-华为（Huawei）
-比亚迪（BYD）
-抖音国际版 / 字节跳动（TikTok / ByteDance）
-X（原Twitter）
+字节跳动
+X
+Twitter
 
 国内科技资讯
 华为
@@ -138,7 +128,7 @@ vivo
 依图科技
 寒武纪
 
-运动/健身
+运动
 体育赛事
 比赛
 冠军
@@ -183,5 +173,21 @@ CS2 Major
 粉丝
 体育直播
 体育新闻
+
+健身
+运动
+锻炼
+力量训练
+有氧运动
+无氧训练
+体能
+塑形
+燃脂
+增肌
+训练计划
+打卡
+训练日记
+健身打卡
+体重管理
 
 
